@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "quote": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs"
+    },
+    {
+        "id": 2,
+        "quote": "Life is what happens when you’re busy making other plans.",
+        "author": "John Lennon"
+    },
+    {
+        "id": 3,
+        "quote": "Get busy living or get busy dying.",
+        "author": "Stephen King"
+    },
+    {
+        "id": 4,
+        "quote": "You only live once, but if you do it right, once is enough.",
+        "author": "Mae West"
+    },
+    {
+        "id": 5,
+        "quote": "Many of life’s failures are people who did not realize how close they were to success when they gave up.",
+        "author": "Thomas A. Edison"
+    },
+    {
+        "id": 6,
+        "quote": "If you want to live a happy life, tie it to a goal, not to people or things.",
+        "author": "Albert Einstein"
+    },
+    {
+        "id": 7,
+        "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+        "author": "Franklin D. Roosevelt"
+    },
+    {
+        "id": 8,
+        "quote": "The best way to predict your future is to create it.",
+        "author": "Abraham Lincoln"
+    },
+    {
+        "id": 9,
+        "quote": "The only place where success comes before work is in the dictionary.",
+        "author": "Vidal Sassoon"
+    },
+    {
+        "id": 10,
+        "quote": "The only way to achieve the impossible is to believe it is possible.",
+        "author": "Charles Kingsleigh"
+    }
+]
